@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <p1>Working Setup for 2026...</p1>
+  <p1>Season starts April 28th, 2026!</p1>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
   <br>
