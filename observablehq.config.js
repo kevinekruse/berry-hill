@@ -10,11 +10,11 @@ export default {
     {
       name: "",
       pages: [
-        {name: "Weekly Results", path: "/weekly_results"},
-        {name: "Standings", path: "/standings"},
+        //{name: "Weekly Results", path: "/weekly_results"},
+        //{name: "Standings", path: "/standings"},
         {name: "Roster", path: "/roster"},
         {name: "Player Data", path: "/player_data"},
-        {name: "Season Records", path: "/records"},
+        //{name: "Season Records", path: "/records"},
         //{name: "Hole Averages", path: "/hole_data"},
         //{name: "Scoring History", path: "/historical_data"},
       ]
