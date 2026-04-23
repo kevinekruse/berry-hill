@@ -8,23 +8,23 @@ const latest_scores = FileAttachment("/data/BH_Scores_Latest.json").json()
 
 ```js
   const files = [
-    FileAttachment("/data/BH_Scores_2025_01.json"),
-    FileAttachment("/data/BH_Scores_2025_02.json"),
-    FileAttachment("/data/BH_Scores_2025_03.json"),
-    FileAttachment("/data/BH_Scores_2025_04.json"),
-    FileAttachment("/data/BH_Scores_2025_05.json"),
-    FileAttachment("/data/BH_Scores_2025_06.json"),
-    FileAttachment("/data/BH_Scores_2025_07.json"),
-    FileAttachment("/data/BH_Scores_2025_08.json"),
-    FileAttachment("/data/BH_Scores_2025_09.json"),
-    FileAttachment("/data/BH_Scores_2025_10.json"),
-    FileAttachment("/data/BH_Scores_2025_11.json"),
-    FileAttachment("/data/BH_Scores_2025_12.json"),
-    FileAttachment("/data/BH_Scores_2025_13.json"),
-    FileAttachment("/data/BH_Scores_2025_14.json"),
-    FileAttachment("/data/BH_Scores_2025_15.json"),
-    FileAttachment("/data/BH_Scores_2025_16.json"),
-    FileAttachment("/data/BH_Scores_2025_17.json"),
+    FileAttachment("/data/BH_Scores_2026_01.json"),
+    FileAttachment("/data/BH_Scores_2026_02.json"),
+    FileAttachment("/data/BH_Scores_2026_03.json"),
+    FileAttachment("/data/BH_Scores_2026_04.json"),
+    FileAttachment("/data/BH_Scores_2026_05.json"),
+    FileAttachment("/data/BH_Scores_2026_06.json"),
+    FileAttachment("/data/BH_Scores_2026_07.json"),
+    FileAttachment("/data/BH_Scores_2026_08.json"),
+    FileAttachment("/data/BH_Scores_2026_09.json"),
+    FileAttachment("/data/BH_Scores_2026_10.json"),
+    FileAttachment("/data/BH_Scores_2026_11.json"),
+    FileAttachment("/data/BH_Scores_2026_12.json"),
+    FileAttachment("/data/BH_Scores_2026_13.json"),
+    FileAttachment("/data/BH_Scores_2026_14.json"),
+    FileAttachment("/data/BH_Scores_2026_15.json"),
+    FileAttachment("/data/BH_Scores_2026_16.json"),
+    FileAttachment("/data/BH_Scores_2026_17.json"),
 ]
 ```
 
@@ -34,7 +34,7 @@ const week_nums = [...Array(latest_week_num).keys()].map(x => x + 1)
 
 ```js
 const scores = files[week_num-1].json()
-//const scores = FileAttachment("/data/BH_Scores_2025_01.json").json()
+//const scores = FileAttachment("/data/BH_Scores_2026_01.json").json()
 
 ```
 

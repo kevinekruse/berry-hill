@@ -3,7 +3,7 @@ const scores = FileAttachment("/data/BerryHillRecords_Latest.csv").csv({typed: t
 ```
 
 <div>
-  <h2>2025 Records</h2>
+  <h2>2026 Records</h2>
 </div>
 
 ```js

@@ -6,6 +6,9 @@
 <div>
   <p1>Season starts April 28th, 2026!</p1>
   <br>
+  <p1>Roster is updated. Please check your roster and player data. Let Kevin_K know if you see any issues.</p1>
+  <br>
+  <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
   <br>
   <p1>As a reminder, per BEGC rules, a player must complete 4 rounds in a season to maintain their handicap for the next year.</p1>

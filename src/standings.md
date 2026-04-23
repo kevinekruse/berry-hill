@@ -17,7 +17,7 @@ const standings_session_3 = FileAttachment("data/BerryHill_Team_Latest_Session_3
 ```js
 //const selected_season_year = parseInt(view(Inputs.radio(["2020","2021","2022","2023","2024","2025"], {label: "Select Year", value: "2025"})))
 //const selected_season_year = view(Inputs.radio([2020,2021,2022,2023,2024,2025], {label: "Select Year", value: 2025, format: x => String(x)}))
-const selected_season_year = 2025
+const selected_season_year = 2026
 ```
 
 ```js

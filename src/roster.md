@@ -3,7 +3,7 @@ const scores = FileAttachment("/data/BerryHillRoster_Latest.csv").csv({typed: tr
 ```
 
 <div>
-  <h2>2025 Roster</h2>
+  <h2>2026 Roster</h2>
 </div>
 
 ```js
@@ -55,6 +55,7 @@ Inputs.table(scores, {
     "rounds_in_2023",
     "rounds_in_2024",
     "rounds_in_2025",
+    "rounds_in_2026",
     "handicap_type",
     "handicap"
   ],
@@ -65,6 +66,7 @@ Inputs.table(scores, {
     rounds_in_2023:htl.html`<div style="white-space: pre-wrap;">${"2023\nRounds".toLocaleString("en")}`,
     rounds_in_2024:htl.html`<div style="white-space: pre-wrap;">${"2024\nRounds".toLocaleString("en")}`,
     rounds_in_2025:htl.html`<div style="white-space: pre-wrap;">${"2025\nRounds".toLocaleString("en")}`,
+    rounds_in_2026:htl.html`<div style="white-space: pre-wrap;">${"2026\nRounds".toLocaleString("en")}`,
     handicap_type:htl.html`<div style="white-space: pre-wrap;">${"Handicap\nType".toLocaleString("en")}`,
     handicap:htl.html`<div style="white-space: pre-wrap; color: ${Observable_Orange}">${"Handicap".toLocaleString("en")}`,
   },
@@ -83,6 +85,7 @@ Inputs.table(scores, {
     rounds_in_2023: "center",
     rounds_in_2024: "center",
     rounds_in_2025: "center",
+    rounds_in_2026: "center",
     handicap_type: "center",
     handicap: "center",
   }
