@@ -324,12 +324,12 @@ function format_handicap_index(d, i, data) {
     if (data[i].row_type == 'average') {
         return htl.html`<div style="
         color: ${Observable_Pink} ;
-        ">${"".toLocaleString("en")}` 
+        ">${""}` 
     }
     else {
       return htl.html`<div style="
         color: ${Observable_Orange};
-        ">${d.toFixed(2).toLocaleString("en")}`
+        ">${d.toFixed(2)}`
     }
 }
 ```
@@ -337,28 +337,31 @@ function format_handicap_index(d, i, data) {
 ```js
 function format_differential (d, i, data) {
     var handicap_index = data[0].postround_handicap_index_unlimited
+    const display = Number.isNaN(handicap_index)
+      ? ''
+      : handicap_index
     if (data[i].row_type == 'average') {
         return htl.html`<div style="
         color: ${Observable_Purple};
         background-color:rgba(255, 138, 183, 0.2);
         border-radius: 0%;
-        ">${handicap_index.toFixed(1).toLocaleString("en")}` 
+        ">${display}` 
     }
     else if (data[i].part_of_backlog != "True") {
         return htl.html`<div style="
         color: ${Observable_Gray};
         text-decoration: line-through;
-        ">${d.toFixed(1).toLocaleString("en")}`
+        ">${d.toFixed(1)}`
     }
     else if (data[i].differential_used == "True") {
         return htl.html`<div style="
         color: ${Observable_Purple};
-        ">${d.toFixed(1).toLocaleString("en")}`
+        ">${d.toFixed(1)}`
     }
     else {
         return htl.html`<div style="
         color: #000000;
-        ">${d.toFixed(1).toLocaleString("en")}`
+        ">${d.toFixed(1)}`
     }
 }
 ```

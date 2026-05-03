@@ -213,13 +213,14 @@ const session_1_rank = ["8th", "1st", "2nd", "3rd", "4th", "6th", "7th", "5th"];
 ```js
 function format_team_num_session_1(d, i, data) {
       var num = Number(d);
-      var rank_text = "(" + session_1_rank[i] + ")"
+     // var rank_text = "(" + session_1_rank[i] + ")"
       var highlight = "#FFFFFF"
-      if (session_1_rank[i] == "1st") {highlight = "#D4AF37"}
+     // if (session_1_rank[i] == "1st") {highlight = "#D4AF37"}
       return htl.html`<div style="
         color: #000000;
         background-color: ${highlight};
-        ">${num.toLocaleString("en")} ${rank_text}`
+        ">${num.toLocaleString("en")}`
+        // ">${num.toLocaleString("en")} ${rank_text}`
 
 }
 ```
@@ -231,13 +232,14 @@ const session_2_rank = ["6th", "5th", "3rd", "4th", "2nd", "1st", "8th", "7th"];
 ```js
 function format_team_num_session_2(d, i, data) {
       var num = Number(d);
-      var rank_text = "(" + session_2_rank[i] + ")"
+     // var rank_text = "(" + session_2_rank[i] + ")"
       var highlight = "#FFFFFF"
-      if (session_2_rank[i] == "1st") {highlight = "#D4AF37"}
+     // if (session_2_rank[i] == "1st") {highlight = "#D4AF37"}
       return htl.html`<div style="
         color: #000000;
         background-color: ${highlight};
-        ">${num.toLocaleString("en")} ${rank_text}`
+        ">${num.toLocaleString("en")}`
+        //">${num.toLocaleString("en")} ${rank_text}`
 
 }
 ```
@@ -249,13 +251,14 @@ const finals_rank = ["8th", "Champions", "3rd", "5th", "4th", "2nd", "7th", "6th
 ```js
 function format_team_num_finals(d, i, data) {
       var num = Number(d);
-      var rank_text = "(Season " + finals_rank[i] + ")"
+      //var rank_text = "(Season " + finals_rank[i] + ")"
       var highlight = "#FFFFFF"
-      if (finals_rank[i] == "Champions") {highlight = "#D4AF37"}
+      //if (finals_rank[i] == "Champions") {highlight = "#D4AF37"}
       return htl.html`<div style="
         color: #000000;
         background-color: ${highlight};
-        ">${num.toLocaleString("en")} ${rank_text}`
+        ">${num.toLocaleString("en")}`
+        //">${num.toLocaleString("en")} ${rank_text}`
 
 }
 ```

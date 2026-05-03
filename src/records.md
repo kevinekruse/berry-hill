@@ -50,7 +50,7 @@ const Observable_Brown = "#9C6B4E"
 Inputs.table(scores, {
   columns: [
     "display_name",
-    "rounds_in_2025",
+    "rounds_in_2026",
     "season_low_gross",
     "season_low_net",
     "season_pars",
@@ -59,7 +59,7 @@ Inputs.table(scores, {
   ],
   header: {
     display_name:htl.html`<div style="white-space: pre-wrap;">${"Player\nName".toLocaleString("en")}`,
-    rounds_in_2025:htl.html`<div style="white-space: pre-wrap;">${"Season\nRounds".toLocaleString("en")}`,
+    rounds_in_2026:htl.html`<div style="white-space: pre-wrap;">${"Season\nRounds".toLocaleString("en")}`,
     season_low_gross:htl.html`<div style="white-space: pre-wrap;">${"Season\n Low Gross".toLocaleString("en")}`,
     season_low_net:htl.html`<div style="white-space: pre-wrap;">${"Season\n Low Net".toLocaleString("en")}`,
     season_pars:htl.html`<div style="white-space: pre-wrap;">${"Season\n Pars".toLocaleString("en")}`,
@@ -80,7 +80,7 @@ Inputs.table(scores, {
   },
   align: {
     display_name: "center",
-    rounds_in_2025: "center",
+    rounds_in_2026: "center",
     season_low_gross: "center",
     season_low_net: "center",
     season_pars: "center",
