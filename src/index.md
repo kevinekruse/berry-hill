@@ -4,8 +4,18 @@
 </div>
 
 <div>
-  <p1>Rainout on April 28th. Week 2 is May 5th.</p1>
+  <p1>Results for Week 3, May 12th have been posted! Beautiful Evening for Golf!</p1>
   <br>
+  <p1>Congrats to Team 7 for the Weekly Win!</p1>
+  <br>
+  <p1>Congrats Steve_D for low gross!  Congrats to Steve_D and Matt_V for low net!</p1>
+  <br>
+  <br>
+  <p1>Reminder to put your team name and first and last initial on card.</p1>
+  <br>
+  <br>
+  <p1>Next Week I will be on business travel.  Can I get a volunteer to collect the score cards for me?</p1>
+  <p1>Results will be delayed next week until the weekend.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
