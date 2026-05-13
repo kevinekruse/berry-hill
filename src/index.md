@@ -8,8 +8,9 @@
   <br>
   <p1>Congrats to Team 7 for the Weekly Win!</p1>
   <br>
-  <p1>Congrats Steve_D for low gross!  Congrats to Steve_D and Matt_V for low net!</p1>
+  <p1>Congrats to Steve_D for low gross!  Congrats to Steve_D and Matt_V for low net!</p1>
   <br>
+  <p1>Congrats to Aaron_G for longest putt on hole 3!</p1>
   <br>
   <p1>Reminder to put your team name and first and last initial on card.</p1>
   <br>
