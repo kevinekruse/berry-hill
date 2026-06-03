@@ -21,15 +21,15 @@ const selected_season_year = 2026
 ```
 
 ```js
-const selected_standings_session_1 = standings_session_1.filter((d) => selected_season_year == d.season_year)
+const selected_standings_session_1 = standings_session_1.filter((d) => selected_season_year == d.season_year && d.team_num !== 1 && d.team_num !== 4)
 ```
 
 ```js
-const selected_standings_session_2 = standings_session_2.filter((d) => selected_season_year == d.season_year)
+const selected_standings_session_2 = standings_session_2.filter((d) => selected_season_year == d.season_year && d.team_num !== 1 && d.team_num !== 4)
 ```
 
 ```js
-const selected_standings_session_3 = standings_session_3.filter((d) => selected_season_year == d.season_year)
+const selected_standings_session_3 = standings_session_3.filter((d) => selected_season_year == d.season_year && d.team_num !== 1 && d.team_num !== 4)
 ```
 <div>
   <h2>Session 1</h2>

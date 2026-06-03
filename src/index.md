@@ -4,15 +4,15 @@
 </div>
 
 <div>
-  <p1>Results for Week 5, May 26th have been posted!</p1>
+  <p1>Results for Week 6, June 2nd have been posted!</p1>
   <br>
-  <p1>Congrats to Team 2 for the Weekly Win!</p1>
+  <p1>Congrats to Team 5 for the Weekly Win!</p1>
   <br>
-  <p1>Congrats to John_C for low gross!  Congrats to Dave_L for low net!</p1>
+  <p1>Congrats to Kevin_K for low gross and low net! </p1>
   <br>
-  <p1>Special Event Sign was not Placed this Week.  Reminder to the first group to check with the clubhouse to ask for the sign.</p1>
+  <p1>Congrats to Steven_D for closest to the pin 3rd shot on 6.</p1>
   <br>
-  <p1>Reminder to put your team name and first and last initial on card.</p1>
+  <p1>Reminder to put your team number and first and last initial on card.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
