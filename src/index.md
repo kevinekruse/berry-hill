@@ -4,16 +4,17 @@
 </div>
 
 <div>
-  <p1>Results for Week 6, June 2nd have been posted!</p1>
+  <p1>Results for Week 7, June 9th have been posted!</p1>
   <br>
   <p1>Congrats to Team 5 for the Weekly Win!</p1>
   <br>
-  <p1>Congrats to Kevin_K for low gross and low net! </p1>
+  <p1>Congrats to Dave_B for low gross and Aaron_G and Nick_M for low net!  If that net value looks odd it's because that is the min during handicap establishment phase. </p1>
   <br>
-  <p1>Congrats to Steven_D for closest to the pin 3rd shot on 6.</p1>
+  <p1>Congrats to Paul_D for longest drive on 7.</p1>
+  <br>
+  <p1>Please put the holes scores on the score card, not delta from par.</p1>
   <br>
   <p1>Reminder to put your team number and first and last initial on card.</p1>
-  <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
   <br>
