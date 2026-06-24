@@ -4,22 +4,21 @@
 </div>
 
 <div>
-  <p1>Results for Week 8, June 16th have been posted. Results were delayed due to the addition of new players.</p1>
+  <p1>Preliminary Results for Week 9, June 23rd have been posted.  League Leaderhsip is working through issues with waivers and dues.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 5 for the Weekly Win and the Session 1 Win (based on lowest session points)!  They will play for the Berry Hill championship on Week 17.</p1>
-  <br>
-  <p1>Fresh start for all teams next week with session 2 starting.</p1>
+  <p1>Congrats to Team 2 for the Weekly Win</p1>
   <br>
   <br>
-  <p1>Congrats to Mike_S for low gross and Mike_O for low net!</p1>
+  <p1>Congrats to Dave_B for low gross and Paul_D for low net!</p1>
   <br>
-  <p1>Congrats to Mike_S for closest to the pin on 8.</p1>
+  <p1>Congrats to Mike_O for longest putt on 9.</p1>
   <br>
   <br>
-  <p1>Please check your scores on the official score card hole by hole before turning it in.</p1>
+  <p1>Reminder that our format is to play in foursomes with two players from each team.</p1>
   <br>
-  <p1>Reminder to put your team number and first and last initial on card.</p1>
+  <br>
+  <p1>Note that the course moved up all the tee times.  Tee times are 4 minutes earlier than what our schedule says.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
