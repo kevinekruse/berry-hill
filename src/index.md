@@ -4,21 +4,20 @@
 </div>
 
 <div>
-  <p1>Preliminary Results for Week 9, June 23rd have been posted.  League Leaderhsip is working through issues with waivers and dues.</p1>
+  <p1>Results for Week 10, June 30th have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 2 for the Weekly Win</p1>
+  <p1>Congrats to Team 3 for the Weekly Win!</p1>
   <br>
   <br>
-  <p1>Congrats to Dave_B for low gross and Paul_D for low net!</p1>
-  <br>
-  <p1>Congrats to Mike_O for longest putt on 9.</p1>
+  <p1>Congrats to Steven_D for low gross and low net!</p1>
   <br>
   <br>
-  <p1>Reminder that our format is to play in foursomes with two players from each team.</p1>
+  <p1>Congrats to Lindsey_L and Kevin_K for longest drives on 1!</p1>
   <br>
   <br>
-  <p1>Note that the course moved up all the tee times.  Tee times are 4 minutes earlier than what our schedule says.</p1>
+  <br>
+  <p1>Note that the course moved all the tee times.  Tee times are 4 minutes later than what our schedule says for the rest of the season.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
