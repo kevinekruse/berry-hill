@@ -4,19 +4,17 @@
 </div>
 
 <div>
-  <p1>Results for Week 12, July 14th have been posted.</p1>
+  <p1>Results for Week 13, July 21st have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 3 for the Weekly Win!  Third week in a row!</p1>
+  <p1>Congrats to Team 3 for the 4th consecutive weekly win!!!</p1>
   <br>
   <br>
-  <p1>Congrats to Chad_S for low gross and Drew_W for low net!</p1>
+  <p1>Congrats to Steven_D for low gross again and Richard_W for low net!</p1>
   <br>
   <br>
-  <p1>Congrats to John_C for closest to the pin on 8!</p1>
+  <p1>Congrats to Lori_K for longest putt on 4!</p1>
   <br>
-  <br>
-  <p1>We started early again tonight.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>

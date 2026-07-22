@@ -2,7 +2,7 @@
     "metadata": {
         "season_year": 2026,
         "week_num": 12,
-        "date": "2026-07-14 16:00:00"
+        "date": "2026-07-14  16:00:00"
     },
     "data": [
         {
@@ -49,7 +49,7 @@
                 23.0
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 7,
                 4,
@@ -119,7 +119,7 @@
                 17.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 6,
                 5,
@@ -201,7 +201,7 @@
                 9.8
             ],
             "postround_rounds_this_year": 6.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 6,
                 3,
@@ -283,7 +283,7 @@
                 26.0
             ],
             "postround_rounds_this_year": 6.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 10,
                 5,
@@ -402,7 +402,7 @@
                 14.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 7,
                 4,
@@ -484,7 +484,7 @@
                 6.8
             ],
             "postround_rounds_this_year": 5.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 7,
                 3,
@@ -551,7 +551,7 @@
                 21.8
             ],
             "postround_rounds_this_year": 5.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 8,
                 5,
@@ -633,7 +633,7 @@
                 20.8
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 5,
                 4,
@@ -737,7 +737,7 @@
                 16.8
             ],
             "postround_rounds_this_year": 5.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 8,
                 5,
@@ -819,7 +819,7 @@
                 9.8
             ],
             "postround_rounds_this_year": 8.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 5,
                 5,
@@ -901,7 +901,7 @@
                 16.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 8,
                 4,
@@ -971,7 +971,7 @@
                 14.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 6,
                 5,
@@ -1090,7 +1090,7 @@
                 24.0
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 8,
                 5,
@@ -1172,7 +1172,7 @@
                 21.8
             ],
             "postround_rounds_this_year": 2.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 8,
                 6,
@@ -1308,7 +1308,7 @@
                 27.8
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-06-23 16:00:00",
+            "last_date_played": "2026-06-23  16:00:00",
             "hole_scores_array": [
                 9,
                 6,
@@ -1420,7 +1420,7 @@
                 16.8
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 10,
                 6,
@@ -1502,7 +1502,7 @@
                 25.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-06-30 16:00:00",
+            "last_date_played": "2026-06-30  16:00:00",
             "hole_scores_array": [
                 7,
                 4,
@@ -1658,7 +1658,7 @@
                 22.8
             ],
             "postround_rounds_this_year": 4.0,
-            "last_date_played": "2026-06-23 16:00:00",
+            "last_date_played": "2026-06-23  16:00:00",
             "hole_scores_array": [
                 7,
                 5,
@@ -1764,7 +1764,7 @@
                 17.8
             ],
             "postround_rounds_this_year": 7.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 6,
                 4,
@@ -1846,7 +1846,7 @@
                 15.8
             ],
             "postround_rounds_this_year": 3.0,
-            "last_date_played": "2026-06-23 16:00:00",
+            "last_date_played": "2026-06-23  16:00:00",
             "hole_scores_array": [
                 8,
                 4,
@@ -1928,7 +1928,7 @@
                 10.8
             ],
             "postround_rounds_this_year": 5.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 7,
                 4,
@@ -2010,7 +2010,7 @@
                 21.8
             ],
             "postround_rounds_this_year": 5.0,
-            "last_date_played": "2026-07-07 16:00:00",
+            "last_date_played": "2026-07-07  16:00:00",
             "hole_scores_array": [
                 8,
                 3,
