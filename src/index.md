@@ -4,17 +4,26 @@
 </div>
 
 <div>
-  <p1>Results for Week 13, July 21st have been posted.</p1>
+  <p1>Results for Week 14, July 28th have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 3 for the 4th consecutive weekly win!!!</p1>
+  <p1>Congrats to Team 6 for the weekly win!!!</p1>
   <br>
   <br>
-  <p1>Congrats to Steven_D for low gross again and Richard_W for low net!</p1>
+  <p1>Congrats to Dave_B for low gross and Libby_T for low net!</p1>
   <br>
   <br>
-  <p1>Congrats to Lori_K for longest putt on 4!</p1>
+  <p1>Congrats to Rhonda_P for longest putt on 9!</p1>
   <br>
+  <br>
+  <br> 
+  <p1> Team 3 has a strong lead for seesion 2 with 2 weeks left.  All teams, except 2, are mathematically eliminated.<p1>
+  <br> 
+  <p1> Week 17 tee times will be assigned based on ranks from session 1 and 2.<p1>
+  <br> 
+  <p1> Projected Week 17 pairings are 3/5 (earliest), 2/8, 6/7 (latest).  Subject to change though based on next 2 weeks results.<p1>
+  <br>
+  <p1> Note that Week 17 results will count for handicap purposes and establishing a valid year (minimum 4 rounds).<p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>
