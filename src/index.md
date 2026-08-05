@@ -4,24 +4,24 @@
 </div>
 
 <div>
-  <p1>Results for Week 14, July 28th have been posted.</p1>
+  <p1>Results for Week 15, August 4th have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 6 for the weekly win!!!</p1>
+  <p1>Congrats to Team 7 for the weekly win!!!</p1>
   <br>
   <br>
-  <p1>Congrats to Dave_B for low gross and Libby_T for low net!</p1>
+  <p1>Congrats to Brendan_M for low gross and Lucy_H for low net!</p1>
   <br>
   <br>
-  <p1>Congrats to Rhonda_P for longest putt on 9!</p1>
+  <p1>Congrats to Steve_D for closest to pin after 3 on hole 6!</p1>
   <br>
   <br>
   <br> 
-  <p1> Team 3 has a strong lead for seesion 2 with 2 weeks left.  All teams, except 2, are mathematically eliminated.<p1>
+  <p1> Team 3 has locked up the session 2 win.  They will play against Team 5 on Week 17 for the League Championship.<p1>
   <br> 
   <p1> Week 17 tee times will be assigned based on ranks from session 1 and 2.<p1>
   <br> 
-  <p1> Projected Week 17 pairings are 3/5 (earliest), 2/8, 6/7 (latest).  Subject to change though based on next 2 weeks results.<p1>
+  <p1> Projected Week 17 pairings are 3/5 (earliest), 2/8, 7/6 (latest).  Subject to change though based on next weeks results.<p1>
   <br>
   <p1> Note that Week 17 results will count for handicap purposes and establishing a valid year (minimum 4 rounds).<p1>
   <br>
