@@ -4,25 +4,24 @@
 </div>
 
 <div>
-  <p1>Results for Week 15, August 4th have been posted.</p1>
+  <p1>Results for Week 16, August 11th have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 7 for the weekly win!!!</p1>
+  <p1>Congrats to Team 3 for the weekly win!!!</p1>
   <br>
   <br>
-  <p1>Congrats to Brendan_M for low gross and Lucy_H for low net!</p1>
+  <p1>Congrats to Sam_C for low gross and Ben_R for low net!</p1>
   <br>
   <br>
-  <p1>Congrats to Steve_D for closest to pin after 3 on hole 6!</p1>
+  <p1>Congrats to Joe_C for longest drive on hole 7!</p1>
   <br>
   <br>
   <br> 
-  <p1> Team 3 has locked up the session 2 win.  They will play against Team 5 on Week 17 for the League Championship.<p1>
+  <p1> Next week Teams 3 and 5 play for the League Championship.<p1>
   <br> 
-  <p1> Week 17 tee times will be assigned based on ranks from session 1 and 2.<p1>
-  <br> 
-  <p1> Projected Week 17 pairings are 3/5 (earliest), 2/8, 7/6 (latest).  Subject to change though based on next weeks results.<p1>
+  <p1> Week 17 tee times are 3/5 (earliest), 2/8, 7/6 (latest)<p1>
   <br>
+  <br>  
   <p1> Note that Week 17 results will count for handicap purposes and establishing a valid year (minimum 4 rounds).<p1>
   <br>
   <br>
