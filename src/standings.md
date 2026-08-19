@@ -154,56 +154,56 @@ Inputs.table(selected_standings_session_2, {
 })
 ```
 <div>
-  <h2>Playoffs</h2>
+  <h2></h2>
 </div>
 
 ```js
-Inputs.table(selected_standings_session_3, {
-  columns: [
-  'team_num',
-  'session_net_sum',
-  //'session_blinds_sum'
-  ],
-  header: {
-    team_num: "Team",
-    session_net_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nNet Score".toLocaleString("en")}`,
-    //session_blinds_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nBlinds".toLocaleString("en")}`,
-    session_rank_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nPoints".toLocaleString("en")}`,
-    rank_01: htl.html`<div style="white-space: pre-wrap;">${"Week 1\nPoints".toLocaleString("en")}`,
-    rank_02: htl.html`<div style="white-space: pre-wrap;">${"Week 2\nPoints".toLocaleString("en")}`,
-    rank_03: htl.html`<div style="white-space: pre-wrap;">${"Week 3\nPoints".toLocaleString("en")}`,
-    rank_04: htl.html`<div style="white-space: pre-wrap;">${"Week 4\nPoints".toLocaleString("en")}`,
-    rank_05: htl.html`<div style="white-space: pre-wrap;">${"Week 5\nPoints".toLocaleString("en")}`,
-    rank_06: htl.html`<div style="white-space: pre-wrap;">${"Week 6\nPoints".toLocaleString("en")}`,
-    rank_07: htl.html`<div style="white-space: pre-wrap;">${"Week 7\nPoints".toLocaleString("en")}`,
-    rank_08: htl.html`<div style="white-space: pre-wrap;">${"Week 8\nPoints".toLocaleString("en")}`
-  },
-  sort: "team_num",
-  reverse: false,
-  rows: 10,
-  layout: "auto",
+//Inputs.table(selected_standings_session_3, {
+//  columns: [
+//  'team_num',
+//  'session_net_sum',
+//  //'session_blinds_sum'
+//  ],
+//  header: {
+//    team_num: "Team",
+//    session_net_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nNet Score".toLocaleString("en")}`,
+//    //session_blinds_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nBlinds".toLocaleString("en")}`,
+//    session_rank_sum: htl.html`<div style="white-space: pre-wrap;">${"Week 17 \nPoints".toLocaleString("en")}`,
+//    rank_01: htl.html`<div style="white-space: pre-wrap;">${"Week 1\nPoints".toLocaleString("en")}`,
+//    rank_02: htl.html`<div style="white-space: pre-wrap;">${"Week 2\nPoints".toLocaleString("en")}`,
+//    rank_03: htl.html`<div style="white-space: pre-wrap;">${"Week 3\nPoints".toLocaleString("en")}`,
+//    rank_04: htl.html`<div style="white-space: pre-wrap;">${"Week 4\nPoints".toLocaleString("en")}`,
+//    rank_05: htl.html`<div style="white-space: pre-wrap;">${"Week 5\nPoints".toLocaleString("en")}`,
+//    rank_06: htl.html`<div style="white-space: pre-wrap;">${"Week 6\nPoints".toLocaleString("en")}`,
+//    rank_07: htl.html`<div style="white-space: pre-wrap;">${"Week 7\nPoints".toLocaleString("en")}`,
+//    rank_08: htl.html`<div style="white-space: pre-wrap;">${"Week 8\nPoints".toLocaleString("en")}`
+//  },
+//  sort: "team_num",
+//  reverse: false,
+//  rows: 10,
+//  layout: "auto",
   
-  format: {
-    team_num: (d,i,data) => format_team_num_finals(d,i,data),
-    //session_blinds_sum: (d,i,data) => format_num_blinds(d,i,data),
-
-  },
-
-  align: {
-    team_num: "center",
-    session_net_sum: "center",
-    //session_blinds_sum: "center",
-    session_rank_sum: "center",
-    rank_01: "center",
-    rank_02: "center",
-    rank_03: "center",
-    rank_04: "center",
-    rank_05: "center",
-    rank_06: "center",
-    rank_07: "center",
-    rank_08: "center"
-  }
-})
+//  format: {
+//    team_num: (d,i,data) => format_team_num_finals(d,i,data),
+//    //session_blinds_sum: (d,i,data) => format_num_blinds(d,i,data),
+//
+//  },
+//
+//  align: {
+//    team_num: "center",
+//    session_net_sum: "center",
+//    //session_blinds_sum: "center",
+//    session_rank_sum: "center",
+//    rank_01: "center",
+//    rank_02: "center",
+//    rank_03: "center",
+//    rank_04: "center",
+//    rank_05: "center",
+//    rank_06: "center",
+//    rank_07: "center",
+//    rank_08: "center"
+//  }
+//})
 ```
 
 ```js

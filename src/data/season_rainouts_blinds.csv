@@ -1,0 +1,10 @@
+season_year,weeks_scheduled,num_teams,total_records,max_nominal_rounds,weeks_cancelled_due_to_weather,expected_rounds,expected_blinds,extra_blinds,blind_perentage,rounds_count,blind_count,checksum_total_rounds,checksum,avg_temp_tuesday_may_aug_bridgeton_mo,avg_heat_index_tuesday_may_aug_bridgeton_mo
+1900,,,176,,,,,,,0,2,,,,
+2019,,,420,,,,,,,0,20,,,82.3,87.4
+2020,16,5,320,320,0,320,0,8,0.025,312,8,320,True,80.7,84.1
+2021,17,10,680,648,3,528,120,15,0.0284,513,167,648,True,80.8,84.9
+2022,17,8,544,544,2,480,64,32,0.0667,448,96,544,True,84.9,89.5
+2023,17,8,544,520,0,520,0,25,0.0481,495,49,520,True,83.2,86.8
+2024,17,8,544,520,5,360,160,35,0.0972,325,219,520,True,84.6,89.3
+2025,17,8,544,544,3,448,96,35,0.0781,413,131,544,True,83.3,89.8
+2026,17,6,432,408,3,336,72,24,0.0714,312,120,408,True,84.7,90.2

@@ -15,7 +15,13 @@ export default {
         {name: "Roster", path: "/roster"},
         {name: "Player Data", path: "/player_data"},
         {name: "Season Records", path: "/records"},
-        //{name: "Hole Averages", path: "/hole_data"},
+        //{name: "Team Scores", path: "/team_scores"},
+        {name: "All Team Scores", path: "/all_team_scores"},
+        {name: "All Scores Summary", path: "/all_scores"},
+        {name: "Seasons Summary", path: "/seasons_summary"},
+        {name: "Hole Data", path: "/hole_data"},
+        //{name: "All Time Records", path: "/all_time_records"},
+        //{name: "All Individual Rounds", path: "/all_individual_rounds"},
         //{name: "Scoring History", path: "/historical_data"},
       ]
     }

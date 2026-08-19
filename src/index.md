@@ -1,28 +1,23 @@
 <div class="hero">
   <h1>Berry Hill Golf</h1>
-  <h2>Welcome</h2>
+  <h2 style="color: #FF4F00;">League Banquet moved to September 1st, 5PM</h2>
+  <h2 style="color: #000000;">Fallon's Bar & Grill on Olive Blvd</h2>
 </div>
 
 <div>
-  <p1>Results for Week 16, August 11th have been posted.</p1>
+  <p1>Results for Week 17, August 18th have been posted.</p1>
   <br>
   <br>
-  <p1>Congrats to Team 3 for the weekly win!!!</p1>
+  <span style="font-size: 24px; color: green; font-weight: bold;">Team 3 Net 145.5, Team 5 Net 140.5</span>
+  <br>
+  <span style="font-size: 24px; color: green; font-weight: bold;">Congrats to Team 5 for winning the 2026 Berry Hill League Championship!!!</span>
   <br>
   <br>
-  <p1>Congrats to Sam_C for low gross and Ben_R for low net!</p1>
+  <br>
+  <p1>Congrats to Steve_D and John_C for low gross tonight and Nick_M for low net, a new season best!</p1>
   <br>
   <br>
-  <p1>Congrats to Joe_C for longest drive on hole 7!</p1>
-  <br>
-  <br>
-  <br> 
-  <p1> Next week Teams 3 and 5 play for the League Championship.<p1>
-  <br> 
-  <p1> Week 17 tee times are 3/5 (earliest), 2/8, 7/6 (latest)<p1>
-  <br>
-  <br>  
-  <p1> Note that Week 17 results will count for handicap purposes and establishing a valid year (minimum 4 rounds).<p1>
+  <p1>Banquet will be at Fallons Tuesday, September 1st (1 week later than original schedule).  Please RSVP via Spond or to your captain.</p1>
   <br>
   <br>
   <p1>This website contains weekly results, standings, records, roster, and player data.  Access the menu on the left by clicking on the arrow on the left of the page to access the pages. You can minimize the menu by clicking the arrow at the top right of the menu window.</p1>

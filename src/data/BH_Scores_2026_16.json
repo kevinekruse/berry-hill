@@ -1156,7 +1156,7 @@
             "team_num": 6,
             "tee": "Red",
             "captain": "n",
-            "index": 36.0,
+            "index": 37.0,
             "num_rounds": 12.0,
             "postround_handicap_index_unlimited": 24.1,
             "backlog_array": [
@@ -1230,7 +1230,7 @@
             "team_num": 6,
             "tee": "Red",
             "captain": "n",
-            "index": 83.0,
+            "index": 84.0,
             "num_rounds": 20.0,
             "postround_handicap_index_unlimited": 23.075,
             "backlog_array": [
@@ -1349,7 +1349,7 @@
             "team_num": 7,
             "tee": "White",
             "captain": "n",
-            "index": 40.0,
+            "index": 41.0,
             "num_rounds": 15.0,
             "postround_handicap_index_unlimited": 18.138,
             "backlog_array": [
@@ -1737,7 +1737,7 @@
             "team_num": 8,
             "tee": "White",
             "captain": "n",
-            "index": 67.0,
+            "index": 68.0,
             "num_rounds": 20.0,
             "postround_handicap_index_unlimited": 16.4,
             "backlog_array": [
@@ -1984,7 +1984,7 @@
             "team_num": 99998,
             "tee": 99998,
             "captain": 99998,
-            "index": 26.6,
+            "index": 26.8,
             "num_rounds": 16.2,
             "postround_handicap_index_unlimited": 15.2,
             "backlog_array": 99998,
