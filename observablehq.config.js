@@ -20,6 +20,7 @@ export default {
         {name: "All Scores Summary", path: "/all_scores"},
         {name: "Seasons Summary", path: "/seasons_summary"},
         {name: "Hole Data", path: "/hole_data"},
+          {name: "Temp Team 5 Data", path: "/temp_team_5_data"},
         //{name: "All Time Records", path: "/all_time_records"},
         //{name: "All Individual Rounds", path: "/all_individual_rounds"},
         //{name: "Scoring History", path: "/historical_data"},
